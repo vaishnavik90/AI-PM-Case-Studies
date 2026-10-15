@@ -100,4 +100,4 @@ I also learned how to come up with different ideas, compare them and choose one 
 
 
 
-this is my final case study review it and rate it my 1st one this is
+
