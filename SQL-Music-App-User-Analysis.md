@@ -104,6 +104,19 @@ LIMIT 3;
 
 **Description:** Sorts users by weekly listening time from highest to lowest and returns the top three.
 
+### Query 7: Which three countries have the highest user counts
+
+**Question:**  Which countries have the largest user groups?
+
+```sql
+SELECT country,
+       COUNT(*) AS user_count
+FROM users
+GROUP BY country
+ORDER BY user_count DESC
+LIMIT 3;
+```
+
 4. Conclusion
    
 These  SQL queries demonstrate how to retrieve, filter, and sort data from a table of music app users.
