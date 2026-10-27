@@ -105,7 +105,8 @@ LIMIT 3;
 **Description:** Sorts users by weekly listening time from highest to lowest and returns the top three.
 
 4. Conclusion
-These six SQL queries demonstrate how to retrieve, filter, and sort data from a table of music app users.
+   
+These  SQL queries demonstrate how to retrieve, filter, and sort data from a table of music app users.
 The queries use SELECT, FROM, WHERE, AND, ORDER BY, and LIMIT to answer basic questions about user behaviour.
 
 Dataset note: This project uses fictional sample data for learning purposes.
